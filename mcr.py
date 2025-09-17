@@ -1,6 +1,6 @@
-#郁小凡 72510351
-# 瞿敬轩 72510271
-# 蒋思城 72510302
+#Author:jiang sicheng, 72510302,mllqw
+#Reviewer1:yu xiaofan, 72510351,yxf-Ripple
+#Reviewei2:qujingxuan, 72510271,opsEpic
 def is_win(game):
     win = False
     # Check rows
