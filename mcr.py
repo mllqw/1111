@@ -1,4 +1,8 @@
-#Reviewer: 72511060 zhangshuai
+
+#Author:jiang sicheng, 72510302,mllqw
+#Reviewer1:yu xiaofan, 72510351,yxf-Ripple
+#Reviewei2:qujingxuan, 72510271,opsEpic
+#Reviewer3:zhangshuai, 72511060,PINKPIG
 
 def is_win(game):
     win = False
