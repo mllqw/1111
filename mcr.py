@@ -1,4 +1,4 @@
-#72511060 zhangshuai
+#Reviewer: 72511060 zhangshuai
 
 def is_win(game):
     win = False
