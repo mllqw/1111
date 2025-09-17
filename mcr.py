@@ -1,3 +1,4 @@
+#郁小凡 72510351
 def is_win(game):
     win = False
     # Check rows
